@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.gidoc.app.service.DocenteServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.063 s -- in com.gidoc.app.service.DocenteServiceTest
+com.gidoc.app.service.DocenteServiceTest.crearDocente_DeberiaGuardarYRetornarDocenteResponse -- Time elapsed: 0.019 s
+com.gidoc.app.service.DocenteServiceTest.desactivarDocente_DeberiaDesactivarDocenteExistente -- Time elapsed: 0.009 s
+com.gidoc.app.service.DocenteServiceTest.crearDocente_DeberiaLanzarExcepcionSiEmailYaExiste -- Time elapsed: 0.018 s

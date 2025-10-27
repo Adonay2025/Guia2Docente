@@ -1,0 +1,7 @@
+com\gidoc\domain\Docente.class
+com\gidoc\app\service\DocenteService.class
+com\gidoc\web\controller\DocenteController.class
+com\gidoc\web\dto\DocenteResponse.class
+com\gidoc\repo\DocenteRepository.class
+com\gidoc\RegistroDocenteApplication.class
+com\gidoc\web\dto\DocenteRequest.class

@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.gidoc.controller.DocenteControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.39 s -- in com.gidoc.controller.DocenteControllerIntegrationTest
+com.gidoc.controller.DocenteControllerIntegrationTest.healthCheck_DeberiaResponder -- Time elapsed: 0.702 s
+com.gidoc.controller.DocenteControllerIntegrationTest.obtenerTodosLosDocentes_DeberiaRetornarLista -- Time elapsed: 0.387 s
+com.gidoc.controller.DocenteControllerIntegrationTest.debugEndpoints -- Time elapsed: 0.039 s
+com.gidoc.controller.DocenteControllerIntegrationTest.crearDocente_DatosValidos_DocenteCreadoExitosamente -- Time elapsed: 0.353 s
+com.gidoc.controller.DocenteControllerIntegrationTest.testControladorExiste -- Time elapsed: 0.023 s

@@ -1,0 +1,3 @@
+com\gidoc\controller\DocenteControllerIntegrationTest.class
+com\gidoc\app\service\DocenteServiceFluentTest.class
+com\gidoc\app\service\DocenteServiceTest.class
